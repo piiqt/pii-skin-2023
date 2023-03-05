@@ -1,7 +1,9 @@
 # pii-skin-2023
-osu skin i made early 2023 
+osu skin i made
 
-# [folder link](https://drive.google.com/drive/folders/1Y-CkhXnWgFk77vLCCFrQwkf8HFFFXraQ?usp=sharing)
+! screenshots are not up to date !
+
+# [folder link](https://drive.google.com/drive/folders/1xNOAA7iElDA_jUw7kxbxD5Vb7KKSWq8m?usp=sharing)
 
 ![image](https://media.discordapp.net/attachments/559987269466062860/1071668623791378432/screenshot3055.jpg?width=805&height=453)
 menu
