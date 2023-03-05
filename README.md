@@ -1,7 +1,7 @@
 # pii-skin-2023
 osu skin i made
 
-! screenshots are not up to date !
+  # ! SCREENSHOTS ARE NOT UP TO DATE !
 
 # [folder link](https://drive.google.com/drive/folders/1xNOAA7iElDA_jUw7kxbxD5Vb7KKSWq8m?usp=sharing)
 
